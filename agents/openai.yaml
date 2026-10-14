@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website to Design.md"
+  short_description: "Extract reusable design systems from websites"
+  default_prompt: "Use $website-to-design-md to capture these websites and produce a source-backed design.md for each."

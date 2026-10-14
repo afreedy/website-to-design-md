@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+capture/
+captures/
+design-references/
+*.mhtml
+*.mht
